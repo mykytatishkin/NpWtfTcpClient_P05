@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mykyta\\source\\repos\\NpWfTcpClientServer_P05\\Server\\Server.csproj",
+      "projectUniqueName": "C:\\Users\\Mykyta\\Documents\\GitHub\\NpWtfTcpClient_P05\\Server\\Server.csproj",
       "projectName": "Server",
-      "projectPath": "C:\\Users\\Mykyta\\source\\repos\\NpWfTcpClientServer_P05\\Server\\Server.csproj",
+      "projectPath": "C:\\Users\\Mykyta\\Documents\\GitHub\\NpWtfTcpClient_P05\\Server\\Server.csproj",
       "packagesPath": "C:\\Users\\Mykyta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mykyta\\source\\repos\\NpWfTcpClientServer_P05\\Server\\obj\\",
+      "outputPath": "C:\\Users\\Mykyta\\Documents\\GitHub\\NpWtfTcpClient_P05\\Server\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mykyta\\AppData\\Roaming\\NuGet\\NuGet.Config",

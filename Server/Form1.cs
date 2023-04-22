@@ -63,7 +63,7 @@ namespace Server
             string msg = await reader.ReadToEndAsync();
             lbMessages.Items.Add(msg);
             client.Close();
-            if (msg.ToLower() == "exit");
+            if (msg.ToLower() == "exit")
             {
                 listener.Stop();
                 Close();
